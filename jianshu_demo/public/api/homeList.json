@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": {
+    "articleList": [
+      {
+        "id":"5",
+        "title":"Per哥太帅了！！！！",
+        "desc": "中兴连续10000000个涨停！！！！",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/9073718-961643f4ce827225.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id":"6",
+        "title":"Per哥太帅了！！！！",
+        "desc": "中兴连续10000000个涨停！！！！",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/9073718-961643f4ce827225.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id":"7",
+        "title":"Per哥太帅了！！！！",
+        "desc": "中兴连续10000个涨停！！！！",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/9073718-961643f4ce827225.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ]
+  }
+}
+
